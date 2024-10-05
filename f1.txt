@@ -1,15 +1,1 @@
-<<<<<<< Updated upstream
-//Task -1002
 
-System.out.println("Welcome to Devops class")
-=======
-//Task -1001
-
-int a = 100
-int b= 200
-System.out.println(" The sum is:" +(a+b));
-System.out.println(" The sub is:" +(a-b));
->>>>>>> Stashed changes
-
-
-//git pull and git fetch
